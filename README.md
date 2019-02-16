@@ -13,6 +13,7 @@ The file can be opened with the Anaconda distribution of Python with Python vers
 numpy
 seaborn
 pandas
+Matplotib
 
 ## Project Motivation<a name="motivation"></a>
 
